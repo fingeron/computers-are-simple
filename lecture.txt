@@ -1,22 +1,31 @@
-- Ask an instructor to reply "Search Google" when asked a question.
-- Have a student councler answer the phone and go with your conversation.
+(environment variables)
 
 WEB
 Why Education is Broken
 Computers are simple
 
 History
+Enigma Code - limitations of electricity
+The Bombe - decryptor assistant
+Church-Turing thesis - limitations of computation
+Turing test - the future of AI
 
 (10 minutes)
 
 Mathematics
+Statistics - concepts of analysing data.
+Law of Large Numbers - when statistics get real
+The Cube example
 
 Computers
+Turing Machine - instructions and how every device works.
+Code - a comfortable way to use instructions.
 
 (10 minutes)
 
 Python
+Functional Programming - plan the different tasks for the computer
+Environment variables
+Demonstrating The Cube example
 
 (10 minutes)
-
-The End
